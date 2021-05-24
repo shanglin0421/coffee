@@ -94,6 +94,11 @@ mark.yellow {
     padding: 2px 1px;
 }
 
+mark.blue {
+	background: linear-gradient(transparent 40%,rgba(156,184,211,1) 40%, #9cb8d3 90%,transparent 95%);	
+    padding: 2px 1px;
+}
+
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
