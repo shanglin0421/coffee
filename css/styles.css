@@ -89,8 +89,9 @@ p {
   margin-bottom: 1rem;
 }
 
-mark-pen {
- background-image: linear-gradient(transparent 50%, rgba(173, 234, 234, 0.5) 50%)
+mark.yellow {
+	background: linear-gradient(transparent 40%,rgba(254,209,54,1) 40%, #FFF176 90%,transparent 95%);	
+    padding: 2px 1px;
 }
 
 abbr[title],
