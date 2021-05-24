@@ -90,7 +90,7 @@ p {
 }
 
 mark.yellow {
-	background: linear-gradient(transparent 80%,rgba(254,209,54,1) 40%, #FFF176 90%,transparent 95%);	
+	background: linear-gradient(transparent 40%,rgba(254,209,54,1) 40%, #FFF176 90%,transparent 95%);	
     padding: 2px 1px;
 }
 
