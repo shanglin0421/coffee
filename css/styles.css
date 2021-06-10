@@ -99,8 +99,9 @@ mark.blue {
     padding: 2px 1px;
 }
 
-.center {
-  text-align: center;
+.container{
+  margin:0 auto;
+  width: 600px;
 }
 
 abbr[title],
