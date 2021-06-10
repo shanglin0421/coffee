@@ -99,10 +99,29 @@ mark.blue {
     padding: 2px 1px;
 }
 
-.container{
-  margin:0 auto;
-  width: 600px;
+pre {
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+    margin: 1em 0px;
 }
+
+.hljs {
+    display: block;
+    overflow-x: auto;
+    padding: .5em;
+    color: #333;
+    background: #f8f8f8;
+}
+
+code {
+    font-family: monospace,'Noto Sans TC',sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+    background: #f8f8f8;
+    border-radius: 3px;
+}
+
 
 abbr[title],
 abbr[data-original-title] {
