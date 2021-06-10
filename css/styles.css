@@ -99,33 +99,9 @@ mark.blue {
     padding: 2px 1px;
 }
 
-<style>
-        *{
-            margin:0;
-            padding: 0;
-        }
-        .wrapper{
-            width: 800px;
-            margin:0 auto;
-        }
-        .align-st li{
-            display: flex;
-        }
-        .align-st h3{
-            align-self:center;
-            display: block;
-            float: right;
-            width: 50%;
-        }
-        .align-st .img-link{
-            width: 50%;
-            display:block;
-            margin-right: 20px;
-        }
-        .align-st img{
-            max-width: 100%;
-        }
- </style>
+.center{
+  text-align: center;
+}
 
 abbr[title],
 abbr[data-original-title] {
