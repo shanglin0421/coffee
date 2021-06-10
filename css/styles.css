@@ -108,7 +108,7 @@ pre {
 
 .hljs {
     display: block;
-    overflow-x: auto;
+    overflow: visible;
     padding: .5em;
     color: #333;
     background: #f8f8f8;
