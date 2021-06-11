@@ -100,7 +100,7 @@ mark.blue {
 }
 
 mark.gray {
-	background: linear-gradient(transparent 40%,rgba(10,10,10,1) 40%, #0A0A0A 90%,transparent 95%);	
+	background: linear-gradient(transparent 40%,rgba(10,10,10,0.03) 40%, #0A0A0A 90%,transparent 95%);	
     padding: 2px 1px;
 }
 
