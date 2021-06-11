@@ -99,6 +99,11 @@ mark.blue {
     padding: 2px 1px;
 }
 
+mark.gray {
+	background: linear-gradient(transparent 40%,rgba(224,224,224,1) 40%, #E0E0E0 90%,transparent 95%);	
+    padding: 2px 1px;
+}
+
 pre {
     display: block;
     font-family: monospace;
