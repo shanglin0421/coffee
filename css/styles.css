@@ -95,7 +95,7 @@ mark.yellow {
 }
 
 mark.blue {
-	background: linear-gradient(transparent 40%,rgba(193,219,245,1) 40%, #c1dbf5 90%,transparent 95%);	
+	background: linear-gradient(transparent 40%,rgba(180,217,217,1) 40%, #B3D9D9 90%,transparent 95%);	
     padding: 2px 1px;
 }
 
